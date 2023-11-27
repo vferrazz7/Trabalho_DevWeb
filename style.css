@@ -11,7 +11,7 @@ html {
   nav {
     background-color: #111;
     color: white;
-    padding: 20px 50px;
+    padding: 2px 50px;
   }
   
   .navTop {
@@ -37,16 +37,18 @@ html {
     color: lightgray;
   }
   
-  .limitedOffer {
+  .about {
     font-size: 20px;
-    border-bottom: 2px solid green;
     cursor: pointer;
+    text-decoration: none;
+    color: inherit;
   }
   
   .navBottom {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-bottom: 30px;
   }
   
   .menuItem {
@@ -100,13 +102,11 @@ html {
   
   .sliderPrice {
     position: absolute;
-    top: 10%;
-    left: 10%;
-    font-size: 60px;
-    font-weight: 300;
+    top: 38%;
+    right: 10%;
+    font-size: 40px;
+    font-weight: 500;
     text-align: center;
-    color: white;
-    border: 1px solid gray;
     z-index: 1;
   }
   
@@ -117,8 +117,8 @@ html {
     font-size: 30px;
     font-weight: 900;
     color: white;
-    border: 1px solid gray;
-    background-color: black;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(15, 15, 15);
     z-index: 1;
     cursor: pointer;
   }
