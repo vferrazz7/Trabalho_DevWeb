@@ -20,4 +20,4 @@ https://www.figma.com/file/t8BNWUS7gFhPBo4tStldX1/.snkrs-hub?type=design&node-id
 https://github.com/vferrazz7/trabalhobackend.git
 
 ### Observação
-Nosa ideia inicial é passar todo este site e seu conteudo mais raso, para react, porém o backend ainda em desenvolvimento, estamos com dificuldades de realizar toda troca do site deste reposiório para o backend mais completo e complexo do repositório acima, como não conseguimos finalizar e considerando minhas dificulldades, isso é o que temos para apresentar até o momento. Agradeço a compreensão desde já!
+Nossa ideia inicial é passar todo este site e seu conteudo mais raso, para react, porém o backend ainda em desenvolvimento, estamos com dificuldades de realizar toda troca do site deste reposiório para o backend mais completo e complexo do repositório acima, como não conseguimos finalizar e considerando minhas dificulldades, isso é o que temos para apresentar até o momento. Agradeço a compreensão desde já!
